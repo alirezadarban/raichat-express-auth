@@ -26,3 +26,11 @@ Thumbs.db
 
 coverage/
 .nyc_output/
+
+tmp/
+temp/
+
+*.bak
+*.backup
+*.old
+*.orig
